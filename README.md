@@ -1,3 +1,4 @@
 # Resume Website
-Website for my Curriculum vitae !!<br>
+Hi!<br>
+I'm Manjari Bisht, and this is my Resume site!! <br>
 :)
